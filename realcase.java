@@ -2,7 +2,7 @@ public class realcase {
     public static void main(String[]args){
         String StudentName = "Akhtar Fauzan";
         int age = 18;
-        String NIM = "D0226305";
+        String NIM = "D0233455";
         char StudentGrade = 'A';
 
         System.out.println("Nama Mahasiswa: " + StudentName);
